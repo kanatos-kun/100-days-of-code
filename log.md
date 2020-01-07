@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 07, 2020 (Example 1)
+### Day 1: January 07, 2020
 
 **Today's Progress**: Continue the React course.
 
