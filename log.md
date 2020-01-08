@@ -14,4 +14,6 @@
 
 **Thoughts:** Wanted to learn thing about _something else_, ending to get a grisp about **react** (not a bad thing tough...)
 
+**Time**: 2 hours
+
 **Link to work:**
