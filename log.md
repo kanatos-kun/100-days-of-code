@@ -17,3 +17,14 @@
 **Time**: 2 hours
 
 **Link to work:**
+
+### Day 2: January 09, 2020
+
+**Today's Progress**: Algebry things, literally no coding :o
+
+**Thoughts:** I've continue my demake of diablo in [TIC-80 fantasy console](https://tic.computer)
+resolve _col_ equation, _row_ equation seem to pose problem :o
+
+**Time**: 3 hours
+
+**Link to work:**
