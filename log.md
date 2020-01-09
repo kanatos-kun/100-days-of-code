@@ -18,7 +18,7 @@
 
 **Link to work:**
 
-### Day 2: January 09, 2020
+### Day 3: January 09, 2020
 
 **Today's Progress**: Algebry things, literally no coding :o
 
