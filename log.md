@@ -28,3 +28,14 @@ resolve _col_ equation, _row_ equation seem to pose problem :o
 **Time**: 3 hours
 
 **Link to work:**
+
+### Day 4: January 10, 2020
+
+**Today's Progress**: Continue algebry, put algorithm into code, _it work :)_
+
+**Thoughts:** I've continue my demake of diablo in [TIC-80 fantasy console](https://tic.computer)
+the thing look great :)
+
+**Time**: 1.5 hours
+
+**Link to work:**
