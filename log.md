@@ -39,3 +39,13 @@ the thing look great :)
 **Time**: 1.5 hours
 
 **Link to work:**
+
+### Day 5: January 11, 2020
+
+**Today's Progress**: Increase scale sprite and make thos algorithm make it work :o
+
+**Thoughts:** I've continue my demake of diablo in [TIC-80 fantasy console](https://tic.computer)
+
+**Time**: 40 minutes
+
+**Link to work:**
