@@ -49,3 +49,14 @@ the thing look great :)
 **Time**: 40 minutes
 
 **Link to work:**
+
+### Day 6: January 13, 2020
+
+**Today's Progress**: Make a personal project in React ^^
+
+**Thoughts:** Spend a lot off time in stackflow, for how to put a script in my react-app. See a response
+about the _hook_ but i chose to create a new component, less complicated to do and work fine :p
+
+**Time**: 1,5 hours
+
+**Link to work:**
