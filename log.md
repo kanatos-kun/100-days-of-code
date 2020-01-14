@@ -52,7 +52,7 @@ the thing look great :)
 
 ### Day 6: January 13, 2020
 
-**Today's Progress**: Make a personal project in React ^^
+**Today's Progress**: Make a personal project in React ^^ grid-helper, for helping with grid, tile position, function etc ...
 
 **Thoughts:** Spend a lot off time in stackflow, for how to put a script in my react-app. See a response
 about the _hook_ but i chose to create a new component, less complicated to do and work fine :p
