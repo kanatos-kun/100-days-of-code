@@ -60,3 +60,23 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 1,5 hours
 
 **Link to work:**
+
+### Day 7: January 14, 2020
+
+**Today's Progress**: Continue course in React, it's React course but it's mostly express module (bcrypt,mongoDB, jwt,express validator ...)
+
+**Thoughts:** The SALT !
+
+**Time**: 1 hour
+
+**Link to work:**
+
+### Day 8: January 15, 2020
+
+**Today's Progress**: Continue my Grid-helper project :)
+
+**Thoughts:** Had a little hard time about the event... :/ but seem to work fine in the end
+
+**Time**: 1 hour
+
+**Link to work:**
