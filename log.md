@@ -80,3 +80,13 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 9: January 17, 2020
+
+**Today's Progress**: Mise en place du pathfinding a\* pour demake diablo
+
+**Thoughts:** //_learning curve_
+
+**Time**: 2 hour
+
+**Link to work:**
