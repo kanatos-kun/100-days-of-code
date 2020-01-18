@@ -91,7 +91,7 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 
 **Link to work:**
 
-### Day 9: January 17, 2020
+### Day 10: January 18, 2020
 
 **Today's Progress**: Mise en place du pathfinding a\* pour demake diablo part 2
 
@@ -100,3 +100,4 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 3 hour
 
 **Link to work:**
+![alt text](https://twitter.com/i/status/1218643428218736640)
