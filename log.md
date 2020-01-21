@@ -123,7 +123,7 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 
 ### Day 13: January 21, 2020
 
-**Today's Progress**: continue course in react, finish the back-end course
+**Today's Progress**: continue course in react, finish the back-end course, learn async and await statement
 
 **Thoughts:** very complicated :s
 
