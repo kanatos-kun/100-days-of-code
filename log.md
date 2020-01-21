@@ -120,3 +120,13 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 2 hour
 
 **Link to work:** [Contact-keeper App](https://github.com/kanatos-kun/contact-keeper)
+
+### Day 13: January 21, 2020
+
+**Today's Progress**: continue course in react, finish the back-end course
+
+**Thoughts:** very complicated :s
+
+**Time**: 2 hour
+
+**Link to work:** [Contact-keeper App](https://github.com/kanatos-kun/contact-keeper)
