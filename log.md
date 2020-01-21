@@ -69,7 +69,7 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 
 **Time**: 1 hour
 
-**Link to work:**
+**Link to work:** [Contact-keeper App](https://github.com/kanatos-kun/contact-keeper)
 
 ### Day 8: January 15, 2020
 
@@ -101,7 +101,7 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 
 **Link to work:**
 
-### Day 10: January 19, 2020
+### Day 11: January 19, 2020
 
 **Today's Progress**: Mise en place du pathfinding a\* pour demake diablo part 3 et fin
 
@@ -111,12 +111,12 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 
 **Link to work:**
 
-### Day 11: January 20, 2020
+### Day 12: January 20, 2020
 
-**Today's Progress**: Mise en place du pathfinding a\* pour demake diablo part 3 et fin
+**Today's Progress**: continue course in react
 
-**Thoughts:** Super happy, it work ! :)
+**Thoughts:**
 
 **Time**: 2 hour
 
-**Link to work:**
+**Link to work:** [Contact-keeper App](https://github.com/kanatos-kun/contact-keeper)
