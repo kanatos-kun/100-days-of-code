@@ -130,3 +130,13 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 2 hour
 
 **Link to work:** [Contact-keeper App](https://github.com/kanatos-kun/contact-keeper)
+
+### Day 14: January 22, 2020
+
+**Today's Progress**: work a little in upload and input file
+
+**Thoughts:**
+
+**Time**: 1 hour
+
+**Link to work:**
