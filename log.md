@@ -140,3 +140,13 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 15: January 23, 2020
+
+**Today's Progress**: finish the micro project, load text file and read it ^^, ad mdbootstrap and react in it :D
+
+**Thoughts:** Funny to code, the react add-in was hard to get into it but the syntax code in mdbootstrap is nice to work with ^^
+
+**Time**: 2 hour
+
+**Link to work:**
