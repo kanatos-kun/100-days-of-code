@@ -150,3 +150,13 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 16: January 24, 2020
+
+**Today's Progress**: Continue the diablo demake
+
+**Thoughts:** mostly salty ... because of github
+
+**Time**: 1,5 hour
+
+**Link to work:**
