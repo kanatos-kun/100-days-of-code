@@ -160,3 +160,14 @@ about the _hook_ but i chose to create a new component, less complicated to do a
 **Time**: 1,5 hour
 
 **Link to work:**
+
+### Day 16: January 24, 2020
+
+**Today's Progress**: Continue the diablo demake, Implement movment of the player and
+movment of the cameras. Still jiggly :x
+
+**Thoughts:** :)
+
+**Time**: 2 hour
+
+**Link to work:**s
