@@ -170,4 +170,14 @@ movment of the cameras. Still jiggly :x
 
 **Time**: 2 hour
 
-**Link to work:**s
+**Link to work:**
+
+### Day 18: January 26, 2020
+
+**Today's Progress**: Continue the diablo demake, put the camera smooth follow
+
+**Thoughts:** get smoothie _v_
+
+**Time**: 2 hour
+
+**Link to work:**
