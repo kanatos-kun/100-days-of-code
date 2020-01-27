@@ -181,3 +181,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 19: January 27, 2020
+
+**Today's Progress**: Continue the React course
+
+**Thoughts:**
+
+**Time**: 2 hour
+
+**Link to work:**
