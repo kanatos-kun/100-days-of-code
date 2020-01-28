@@ -191,3 +191,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 20: January 28, 2020
+
+**Today's Progress**: Continue my read text project
+
+**Thoughts:** ^^
+
+**Time**: 2 hour
+
+**Link to work:**
