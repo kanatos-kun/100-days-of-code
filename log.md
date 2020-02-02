@@ -201,3 +201,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 20: February 02, 2020
+
+**Today's Progress**: Continue my demake of Diablo in Tic-80 ^^, Modify the heuristic function to diagonal distance. Add switch color for more custom !
+
+**Thoughts:** Enjoy
+
+**Time**: 2 hour
+
+**Link to work:**
