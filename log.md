@@ -202,12 +202,22 @@ movment of the cameras. Still jiggly :x
 
 **Link to work:**
 
-### Day 20: February 02, 2020
+### Day 21: February 02, 2020
 
 **Today's Progress**: Continue my demake of Diablo in Tic-80 ^^, Modify the heuristic function to diagonal distance. Add switch color for more custom !
 
 **Thoughts:** Enjoy
 
 **Time**: 2 hour
+
+**Link to work:**
+
+### Day 22: February 03, 2020
+
+**Today's Progress**: Continue my read text project, implement a useless clock (it was just for learning a little more about the state ^^), make a little local json file reading for _pseudo database_.
+
+**Thoughts:** Enjoy
+
+**Time**: 3 hour
 
 **Link to work:**
