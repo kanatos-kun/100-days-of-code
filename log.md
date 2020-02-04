@@ -221,3 +221,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 3 hour
 
 **Link to work:**
+
+### Day 23: February 04, 2020
+
+**Today's Progress**: Learn that you can use jQuery in react app and in most case it's useless to implement it (i wanted to implement a drag & drop effect)
+
+**Thoughts:**
+
+**Time**: 1.5 hour
+
+**Link to work:**
