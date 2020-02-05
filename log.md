@@ -231,3 +231,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1.5 hour
 
 **Link to work:**
+
+### Day 24: February 05, 2020
+
+**Today's Progress**: Learn drag and drop library for react (react-beautiful-dnd, uuid)
+
+**Thoughts:**
+
+**Time**: 1.5 hour
+
+**Link to work:**
