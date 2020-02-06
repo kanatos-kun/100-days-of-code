@@ -241,3 +241,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1.5 hour
 
 **Link to work:** [https://www.youtube.com/watch?time_continue=1745&v=uHO3mQgs-e8&feature=emb_title]
+
+### Day 25: February 06, 2020
+
+**Today's Progress**: Diablo_demake, create custom character, reimplement a function to outline character
+
+**Thoughts:** 1/4 of challenge done :D
+
+**Time**: 1.5 hour
+
+**Link to work:**
