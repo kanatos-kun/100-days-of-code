@@ -261,3 +261,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 27: February 08, 2020
+
+**Today's Progress**: Diablo_demake, add ui
+
+**Thoughts:**
+
+**Time**: 1 hour
+
+**Link to work:**
