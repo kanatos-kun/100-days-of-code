@@ -271,3 +271,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 28: February 09, 2020
+
+**Today's Progress**: Diablo_demake, add function for creating ui, add ui state
+
+**Thoughts:**
+
+**Time**: 1,5 hour
+
+**Link to work:**
