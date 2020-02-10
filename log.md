@@ -281,3 +281,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1,5 hour
 
 **Link to work:**
+
+### Day 29: February 10, 2020
+
+**Today's Progress**: Calculatrice in react, add keyPad component and send message in the app
+
+**Thoughts:**
+
+**Time**: 2 hour
+
+**Link to work:**
