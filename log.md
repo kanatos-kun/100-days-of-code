@@ -291,3 +291,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 30: February 11, 2020
+
+**Today's Progress**: Calculatrice in react, make the calcul real !
+
+**Thoughts:** :)
+
+**Time**: 3 hour
+
+**Link to work:**
