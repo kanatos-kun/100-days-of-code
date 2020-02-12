@@ -301,3 +301,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 3 hour
 
 **Link to work:**
+
+### Day 31: February 12, 2020
+
+**Today's Progress**: Calculatrice in react, change css button and responsive design
+
+**Thoughts:** :)
+
+**Time**: 2 hour
+
+**Link to work:**
