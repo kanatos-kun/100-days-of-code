@@ -311,3 +311,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 32: February 13, 2020
+
+**Today's Progress**: Demake Diablo, implementer le system de state-UI
+
+**Thoughts:**
+
+**Time**: 2,5 hour
+
+**Link to work:**
