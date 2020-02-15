@@ -321,3 +321,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2,5 hour
 
 **Link to work:**
+
+### Day 33: February 15, 2020
+
+**Today's Progress**: Demake Diablo, Complete (50%) character UI state
+
+**Thoughts:**
+
+**Time**: 1 hour
+
+**Link to work:**
