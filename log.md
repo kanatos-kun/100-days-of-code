@@ -331,3 +331,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 34: February 16, 2020
+
+**Today's Progress**: Demake Diablo, finish character UI state, began menu UI state, quest UI state and inv UI state.
+
+**Thoughts:**
+
+**Time**: 2 hour
+
+**Link to work:**
