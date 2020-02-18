@@ -351,3 +351,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 2 hour
 
 **Link to work:**
+
+### Day 36: February 18, 2020
+
+**Today's Progress**: continue course React
+
+**Thoughts:**
+
+**Time**: 1 hour
+
+**Link to work:**
