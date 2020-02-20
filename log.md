@@ -371,3 +371,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1,5 hour
 
 **Link to work:**
+
+### Day 38: February 20, 2020
+
+**Today's Progress**: Make a music player in tic-80
+
+**Thoughts:**
+
+**Time**: 1,5 hour
+
+**Link to work:**
