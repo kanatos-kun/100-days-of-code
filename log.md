@@ -381,3 +381,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1,5 hour
 
 **Link to work:**
+
+### Day 39: February 21, 2020
+
+**Today's Progress**: continue learning regex
+
+**Thoughts:**
+
+**Time**: 1 hour
+
+**Link to work:**
