@@ -391,3 +391,13 @@ movment of the cameras. Still jiggly :x
 **Time**: 1 hour
 
 **Link to work:**
+
+### Day 40: February 22, 2020
+
+**Today's Progress**: continue Demake Diablo, implement gameState and start UI for titleScreen
+
+**Thoughts:**
+
+**Time**: 1,5 hour
+
+**Link to work:**
