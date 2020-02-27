@@ -401,3 +401,14 @@ movment of the cameras. Still jiggly :x
 **Time**: 1,5 hour
 
 **Link to work:**
+
+### Day 41: February 27, 2020
+
+**Today's Progress**: continue Demake Diablo, continue UI control, changment gameState between
+GAME and TITLE, create dialogBox
+
+**Thoughts:**
+
+**Time**: 3 hour
+
+**Link to work:**
