@@ -412,3 +412,13 @@ GAME and TITLE, create dialogBox
 **Time**: 3 hour
 
 **Link to work:**
+
+### Day 42: February 29, 2020
+
+**Today's Progress**: continue Demake Diablo, add animation 4\*4, dont work well :p
+
+**Thoughts:**
+
+**Time**: 2 hour
+
+**Link to work:**
