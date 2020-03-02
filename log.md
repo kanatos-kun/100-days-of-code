@@ -423,12 +423,22 @@ GAME and TITLE, create dialogBox
 
 **Link to work:**
 
-### Day 43: February 01, 2020
+### Day 43: Mars 01, 2020
 
 **Today's Progress**: continue Demake Diablo, correct bug, rearrange spritesheet
 
 **Thoughts:**
 
 **Time**: 3 hour
+
+**Link to work:**
+
+### Day 44: Mars 02, 2020
+
+**Today's Progress**: Learn Regex
+
+**Thoughts:**
+
+**Time**: 1 hours
 
 **Link to work:**
