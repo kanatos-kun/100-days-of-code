@@ -462,3 +462,13 @@ GAME and TITLE, create dialogBox
 **Time**: 1h
 
 **Link to work:**
+
+### Day 47: Mars 08, 2020
+
+**Today's Progress**: continue diablo demake
+
+**Thoughts:**
+
+**Time**: 1h
+
+**Link to work:**
