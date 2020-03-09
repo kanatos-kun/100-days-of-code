@@ -472,3 +472,13 @@ GAME and TITLE, create dialogBox
 **Time**: 1h
 
 **Link to work:**
+
+### Day 48: Mars 09, 2020
+
+**Today's Progress**: continue react course
+
+**Thoughts:**
+
+**Time**: 1h
+
+**Link to work:**
