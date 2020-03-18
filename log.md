@@ -492,3 +492,13 @@ GAME and TITLE, create dialogBox
 **Time**: 4h
 
 **Link to work:**
+
+### Day 51: Mars 11-12, 2020
+
+**Today's Progress**: Learn more about back-end (express, mongoDB server)
+
+**Thoughts:**
+
+**Time**: 3h
+
+**Link to work:**
