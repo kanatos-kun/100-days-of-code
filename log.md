@@ -493,11 +493,21 @@ GAME and TITLE, create dialogBox
 
 **Link to work:**
 
-### Day 51: Mars 11-12, 2020
+### Day 51: Mars 18, 2020
 
 **Today's Progress**: Learn more about back-end (express, mongoDB server)
 
 **Thoughts:**
+
+**Time**: 3h
+
+**Link to work:**
+
+### Day 52: Mars 19, 2020
+
+**Today's Progress**: document about jsonwebtoken, mongoose, create auth login and register user and learning ... learn more about back end
+
+**Thoughts:** seem pretty confused and hard to comprehend... :/
 
 **Time**: 3h
 
