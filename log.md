@@ -512,3 +512,13 @@ GAME and TITLE, create dialogBox
 **Time**: 3h
 
 **Link to work:**
+
+### Day 53: Mars 20, 2020
+
+**Today's Progress**: learn with webpack, add auth to chat website.
+
+**Thoughts:** seem pretty confused and hard to comprehend... :/
+
+**Time**: 3h
+
+**Link to work:**
