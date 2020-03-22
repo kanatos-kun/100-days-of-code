@@ -522,3 +522,13 @@ GAME and TITLE, create dialogBox
 **Time**: 3h
 
 **Link to work:**
+
+### Day 54: Mars 22, 2020
+
+**Today's Progress**: create a CV page for website
+
+**Thoughts:**
+
+**Time**: 2h
+
+**Link to work:**
