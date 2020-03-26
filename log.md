@@ -532,3 +532,13 @@ GAME and TITLE, create dialogBox
 **Time**: 2h
 
 **Link to work:**
+
+### Day 55-56: Mars 25-26, 2020
+
+**Today's Progress**: learn how hook work in a react app
+
+**Thoughts:**
+
+**Time**: 4h - 4h
+
+**Link to work:**
