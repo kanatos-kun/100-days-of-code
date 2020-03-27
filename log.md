@@ -542,3 +542,13 @@ GAME and TITLE, create dialogBox
 **Time**: 4h - 4h
 
 **Link to work:**
+
+### Day 57: Mars 27, 2020
+
+**Today's Progress**: learn more about useContext, add register user, props.children...
+
+**Thoughts:**
+
+**Time**: 2h30
+
+**Link to work:**
