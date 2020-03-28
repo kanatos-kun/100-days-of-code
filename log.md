@@ -552,3 +552,13 @@ GAME and TITLE, create dialogBox
 **Time**: 2h30
 
 **Link to work:**
+
+### Day 58: Mars 28, 2020
+
+**Today's Progress**: learn more about props.children, remove bug about diablo demake
+
+**Thoughts:**
+
+**Time**: 2h30
+
+**Link to work:**
