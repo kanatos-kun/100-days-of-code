@@ -562,3 +562,13 @@ GAME and TITLE, create dialogBox
 **Time**: 2h30
 
 **Link to work:**
+
+### Day 59: Mars 29, 2020
+
+**Today's Progress**: Create electron application with electron-forge, create newer shema mongoose for chatMessage.
+
+**Thoughts:**
+
+**Time**: 4h00
+
+**Link to work:**
