@@ -572,3 +572,13 @@ GAME and TITLE, create dialogBox
 **Time**: 4h00
 
 **Link to work:**
+
+### Day 60: Mars 30, 2020
+
+**Today's Progress**: Add sending message in chat application
+
+**Thoughts:**
+
+**Time**: 2h00
+
+**Link to work:**
