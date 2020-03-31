@@ -582,3 +582,13 @@ GAME and TITLE, create dialogBox
 **Time**: 2h00
 
 **Link to work:**
+
+### Day 61: Mars 31, 2020
+
+**Today's Progress**: Add sending message in chat application, implement connexion between reducer and component
+
+**Thoughts:**
+
+**Time**: 2h00
+
+**Link to work:**
