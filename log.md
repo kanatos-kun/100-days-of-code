@@ -592,3 +592,13 @@ GAME and TITLE, create dialogBox
 **Time**: 2h00
 
 **Link to work:**
+
+### Day 62: Avril 02, 2020
+
+**Today's Progress**: Continue demake diablo, add-load user.
+
+**Thoughts:**
+
+**Time**: 2h00
+
+**Link to work:**
