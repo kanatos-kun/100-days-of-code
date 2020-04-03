@@ -602,3 +602,14 @@ GAME and TITLE, create dialogBox
 **Time**: 2h00
 
 **Link to work:**
+
+### Day 63: Avril 03, 2020
+
+**Today's Progress**: Continue demake diablo, add dungeon map, create generating procedural map,
+clean up code.
+
+**Thoughts:**
+
+**Time**: 5h00
+
+**Link to work:**
