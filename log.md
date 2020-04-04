@@ -613,3 +613,13 @@ clean up code.
 **Time**: 5h00
 
 **Link to work:**
+
+### Day 64: Avril 04, 2020
+
+**Today's Progress**: Continue demake diablo, work in tunnel.
+
+**Thoughts:**
+
+**Time**: 5h00
+
+**Link to work:**
