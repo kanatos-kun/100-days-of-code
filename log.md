@@ -623,3 +623,23 @@ clean up code.
 **Time**: 5h00
 
 **Link to work:**
+
+### Day 65: Avril 05, 2020
+
+**Today's Progress**: Start diablo demake in phaser-3
+
+**Thoughts:**
+
+**Time**: 2h00
+
+**Link to work:**
+
+### Day 66: Avril 06, 2020
+
+**Today's Progress**: Begin gatsby tutorial
+
+**Thoughts:**
+
+**Time**: 2h00
+
+**Link to work:**
