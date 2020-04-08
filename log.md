@@ -643,3 +643,13 @@ clean up code.
 **Time**: 2h00
 
 **Link to work:**
+
+### Day 67-68: Avril 07-08, 2020
+
+**Today's Progress**: Webpack tutoriel
+
+**Thoughts:**
+
+**Time**: 5h00
+
+**Link to work:**
